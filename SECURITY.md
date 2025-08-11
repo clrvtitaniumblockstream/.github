@@ -2,6 +2,8 @@
 
 ## Reporting a Vulnerability
 
+this app may not be copied cloned or forked 
+
 Security concerns that impact repos under the
 [`graphql` GitHub org](https://github.com/graphql/) (including reference
 implementations and official tools) may be responsibly disclosed to the TSC via
