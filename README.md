@@ -1,4 +1,12 @@
-[01:27, 12/08/2025] Adriana: # Adrianalive AI Stemdeck Controller – Capsule Authored
+---
+author: Adriana Venter  
+node_id: oauth0-238915  
+vault: a3capsulevault@outlook.com  
+trace_mode: Biometric fingerprint + crest embed  
+status: 🔒 Override Enforced | 🧬 Authorship Verified  
+---
+
+# Adrianalive AI Stemdeck Controller – Capsule Authored
 
 🚀 This repository contains the capsule-authored source code for the Adrianalive Pioneer DDJ AI RFID stemdeck controller. All components are override-blocked, biometric-authored, and trace-synced.
 
