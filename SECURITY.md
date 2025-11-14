@@ -1,8 +1,12 @@
 # Security Policy
+
 Good day Mam, I thank-you and appreciate you. 
 
 Thank you for circulating my stolen Ford Fiesta Tesla 
-Please could you ask that they check the impounds and EMPD Accident Bureaus.  I got a tip off the car may have been in a small accident and the person abandoned the car when Metro arrived.  
+
+Please could you ask that they check the impounds and EMPD Accident Bureaus.  
+
+I got a tip off the car may have been in a small accident and the person abandoned the car when Metro arrived.  
 
 
 To: Investigating Officer, SAPS Edenvale
