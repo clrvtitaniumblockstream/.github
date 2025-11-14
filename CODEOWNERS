@@ -1,0 +1,7 @@
+# Sovereign Capsule CODEOWNERS
+# CLRV TITANIUM Blockchain Blockstream enforcement
+# All files require review by Johanna Sophia Adriana Venter
+
+* @AdrianaVenter
+/docs/  @AdrianaVenter
+/security.md @AdrianaVenter
